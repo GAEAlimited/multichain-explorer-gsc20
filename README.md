@@ -1,4 +1,4 @@
-MultiChain Explorer 2
+MultiChain Explorer 2 for GSC20
 =====================
 
 [MultiChain Explorer 2](https://github.com/MultiChain/multichain-explorer-2) is a new blockchain browser for [MultiChain](http://www.multichain.com/) blockchains.
